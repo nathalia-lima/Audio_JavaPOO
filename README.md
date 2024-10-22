@@ -1,4 +1,4 @@
-<h1 align="center"> Screen Sound </h1>
+<h1 align="center"> Audio - Java POO </h1>
 
 <p align="center">
 Projeto desenvolvido no curso Java: aplicando a Orinetação a Objetos da plataforma Alura <br/>
